@@ -18,4 +18,3 @@ If you are a Mac User, you have to type this order.
 This order, too.
 
     brew install tesseract-lang
-
